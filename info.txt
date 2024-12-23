@@ -1,0 +1,3 @@
+DATABASE NAME: ** phpcrud **
+
+url: http://localhost/crud/display.php
